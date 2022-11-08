@@ -1,4 +1,4 @@
-package com.genz.recursion;
+package com.genz.basic.problems;
 
 import java.util.Scanner;
 
